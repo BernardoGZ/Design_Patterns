@@ -2,6 +2,13 @@ import csv
 from patterns import ride as ride_class
 from datetime import datetime
 
+'''
+    SOLID Principles applied:
+        - SRP: csv_utils should only be responsible for CSV management
+        - OCP: In case any other CSV functionalities added, can be added without
+        modifying old code
+'''
+
 def parse_file(csv_file: str):
     with open(csv_file) as file:
         csv_reader = csv.DictReader(file, delimiter=",")

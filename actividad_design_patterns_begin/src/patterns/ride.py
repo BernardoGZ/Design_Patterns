@@ -2,6 +2,13 @@
 # Description: Sets the Ride class and its attributes. 
 # Uses Builder Design Pattern to instanciate Ride objects
 
+'''
+    SOLID Principles applied:
+        - SRP: Ride should only be responsible for Ride instances and methods
+        - ISP: Ride dataclass used to depend in CSV functionalities. 
+        With the refactorization, is not needed anymore
+'''
+
 from dataclasses import dataclass
 from datetime import datetime
 
