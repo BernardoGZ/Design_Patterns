@@ -1,9 +1,9 @@
 # Design_Patterns
 Actividad: Refactorizacion con Design Patterns para Diseño y Arquitectura de Software
-Javier Martínez Olivares A01401017
-Alfredo Jose Welsh Martínez A00825988
-Bernardo Garcia Zermeño A00570682
-Gustavo Adolfo Benitez Leonés A00826760
+- Javier Martínez Olivares A01401017
+- Alfredo Jose Welsh Martínez A00825988
+- Bernardo Garcia Zermeño A00570682
+- Gustavo Adolfo Benitez Leonés A00826760
 
 
 ## Patrones de diseño
