@@ -1,6 +1,6 @@
 Taxi Report
 
-TaxiID 		Pickup time 			Dropoff time 		Passenger count 		Trip Distance 		Total amount
+TaxiID 		Pickup time 			Dropoff time 			Passenger count 		Trip Distance 		Total amount
     
 17083		2018-01-01T00:18:50		2018-01-01T00:24:39		5		0.7		7.3	
 

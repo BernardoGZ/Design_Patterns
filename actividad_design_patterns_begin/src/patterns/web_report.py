@@ -1,4 +1,4 @@
-from patterns.csv_utils import Ride #SOLID BAd practice
+# from patterns.ride import Ride #SOLID BAd practice
 
 
 def create_content(rides):
